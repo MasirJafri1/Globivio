@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Ahmedabad, Gujarat"
+  },
+  {
+    "icon": "FaLinkedin",
+    "title": "Connect us",
+    "details": "MasirJafri"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "masirjafri1.com"
+  }
+]
