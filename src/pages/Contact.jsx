@@ -16,7 +16,7 @@ function Contact() {
             type="text"
             className="form-control"
             required
-            autoComplete="false"
+            autoComplete="off"
             placeholder="Enter Your Name"
             name="username"
           />
@@ -25,7 +25,7 @@ function Contact() {
             type="email"
             className="form-control"
             required
-            autoComplete="false"
+            autoComplete="off"
             placeholder="Enter Your Email"
             name="email"
           />
@@ -36,7 +36,7 @@ function Contact() {
             required
             rows="10"
             placeholder="Enter Your Message"
-            autoComplete="false"
+            autoComplete="off"
           ></textarea>
 
           <button type="submit" value="send">
